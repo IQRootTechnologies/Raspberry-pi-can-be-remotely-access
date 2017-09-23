@@ -1,6 +1,6 @@
-# Raspberry-pi-can-be-remotely-access
+# Raspberry-pi-can-be-remotely-accessed
 
- Raspberry pi can be remotely access by following methods with two cases
+ Raspberry pi can be remotely accessed by following methods with two cases
     1) Connected to internet 2) Without internet 
 
 1) Raspberry - pi is connected to Internet - 
